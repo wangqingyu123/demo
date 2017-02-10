@@ -1,6 +1,6 @@
-<?php
-class a{
-    function __construct(){
-        
-    }
-}
+<?php 
+
+phpinfo();
+
+?>
+
