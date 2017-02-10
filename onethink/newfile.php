@@ -9,12 +9,7 @@ class test{
 		
 		echo 'hello';
 	}
-	
-	
-	
-	
-	
-	
+
 }
 
 
